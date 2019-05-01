@@ -1,0 +1,22 @@
+{
+    "name": "solidarity-nodejs",
+    "description": "Plugin to validate Node.js environment",
+    "version": "1.0.0",
+    "license": "MIT",
+    "author": {
+        "name": "Piotr Kowalski",
+        "email": "piecioshka@gmail.com",
+        "url": "https://piecioshka.pl/"
+    },
+    "scripts": {
+        "test": "echo not yet"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:piecioshka/solidarity-nodejs.git"
+    },
+    "keywords": [
+        "solidarity",
+        "plugin"
+    ]
+}

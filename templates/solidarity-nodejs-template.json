@@ -1,0 +1,12 @@
+{
+    "$schema": "http://json.schemastore.org/solidaritySchema",
+    "requirements": {
+        "Node.js": [
+            {
+                "rule": "cli",
+                "binary": "node",
+                "semver": ">=10.x.x"
+            }
+        ]
+    }
+}
