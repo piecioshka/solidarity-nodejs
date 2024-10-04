@@ -2,9 +2,14 @@
 
 # solidarity-nodejs
 
-## Plugin to validate Node.js environment
+[![node version](https://img.shields.io/node/v/solidarity-nodejs.svg)](https://www.npmjs.com/package/solidarity-nodejs)
+[![npm version](https://badge.fury.io/js/solidarity-nodejs.svg)](https://badge.fury.io/js/solidarity-nodejs)
+[![downloads count](https://img.shields.io/npm/dt/solidarity-nodejs.svg)](https://www.npmjs.com/package/solidarity-nodejs)
+[![license](https://img.shields.io/npm/l/solidarity-nodejs.svg)](https://www.npmjs.com/package/solidarity-nodejs)
 
-Validate Node.js environment:
+Plugin to validate Node.js environment
+
+## Validate Node.js environment
 
 ```text
 "semver": ">=10.x.x"
@@ -13,7 +18,7 @@ Validate Node.js environment:
 ## Install
 
 ```bash
-npm i solidarity-nodejs
+npm install solidarity-nodejs
 ```
 
 or
