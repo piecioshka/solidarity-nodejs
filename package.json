@@ -13,7 +13,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git@github.com:piecioshka/solidarity-nodejs.git"
+        "url": "git+ssh://git@github.com/piecioshka/solidarity-nodejs.git"
     },
     "keywords": [
         "solidarity",
