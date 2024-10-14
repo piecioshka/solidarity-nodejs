@@ -1,9 +1,9 @@
 node_modules/
-yarn-error.log
-.node-version
+npm-debug.log
+
 coverage
-.nyc_output
-.idea
+
 dist/
+
 .vscode/*
 !.vscode/cSpell.json
