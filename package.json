@@ -1,6 +1,6 @@
 {
     "name": "solidarity-nodejs",
-    "description": "Plugin to validate Node.js environment",
+    "description": "🔨 Plugin to validate Node.js environment",
     "version": "1.0.1",
     "license": "MIT",
     "author": {

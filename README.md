@@ -7,7 +7,7 @@
 [![downloads count](https://img.shields.io/npm/dt/solidarity-nodejs.svg)](https://www.npmjs.com/package/solidarity-nodejs)
 [![license](https://img.shields.io/npm/l/solidarity-nodejs.svg)](https://piecioshka.mit-license.org)
 
-Plugin to validate Node.js environment
+🔨 Plugin to validate Node.js environment
 
 ## Validate Node.js environment
 
@@ -31,4 +31,4 @@ This plugin will automatically be picked up by Solidarity (which should already 
 
 ## What is Solidarity?
 
-[:newspaper: Read More About Solidarity Here](https://github.com/infinitered/solidarity)
+[🔖 Read More About Solidarity Here](https://github.com/infinitered/solidarity)
