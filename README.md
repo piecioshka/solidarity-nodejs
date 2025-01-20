@@ -16,16 +16,12 @@
 "semver": ">=10.x.x"
 ```
 
-## Install
+## Usage
+
+Installation:
 
 ```bash
-npm install solidarity-nodejs
-```
-
-or
-
-```bash
-yarn add solidarity-nodejs
+npm install -D solidarity-nodejs
 ```
 
 This plugin will automatically be picked up by Solidarity (which should already be installed).
