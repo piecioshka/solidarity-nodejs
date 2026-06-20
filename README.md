@@ -29,3 +29,7 @@ This plugin will automatically be picked up by Solidarity (which should already 
 ## What is Solidarity?
 
 [🔖 Read More About Solidarity Here](https://github.com/infinitered/solidarity)
+
+## License
+
+[The MIT License](http://piecioshka.mit-license.org) @ 2026
